@@ -71,5 +71,6 @@ WHERE genre IS NULL OR genre = ''
    OR number_available IS NULL;
 
 
-For further detail please view the WebScrape https://github.com/Drook93/Webscrape-Books/blob/master/WebScrape%20Python%20Code.ipynb for a break down of the steps to set up the Web Scraping, cleaning and transforming the data. It will also explain how to save to a MYSQL database.
+For further detail please view the WebScrape https://github.com/Drook93/Webscrape-Books/blob/master/WebScrape%20Python%20Code.ipynb for the step by set up explanation set-up of the web scraping, cleaning and transforming the data. It will also explain how to save it to a MYSQL database.
+
 Any other additonal details are included in the PowerPoint presentation: https://github.com/Drook93/Webscrape-Books/blob/master/Website%20Scraping%20Project.pdf.
